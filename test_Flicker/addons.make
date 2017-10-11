@@ -1,0 +1,3 @@
+ofxDiderot
+ofxGui
+ofxNestedFileLoader
